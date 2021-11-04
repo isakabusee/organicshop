@@ -52,7 +52,6 @@ import { LoginComponent } from './login/login.component';
       { path: 'admin/products', component: AdminProductsComponent },
       { path: 'admin/orders', component: AdminOrdersComponent },
     ])
-
   ],
   providers: [],
   bootstrap: [AppComponent]
